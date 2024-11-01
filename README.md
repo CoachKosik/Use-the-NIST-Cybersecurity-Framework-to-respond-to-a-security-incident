@@ -1,5 +1,5 @@
 
-# Use the NIST Cybersecurity Framework to respond to a security incident - Applying the NIST CSF
+# Use the NIST Cybersecurity Framework to respond to a security incident <br> - Applying the NIST CSF
 
 ## Objective
 
